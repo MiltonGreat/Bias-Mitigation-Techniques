@@ -1,6 +1,7 @@
 # Fairness-Aware Credit Risk Prediction
 
-![screenshot-localhost_8888-2025 04 02-14_02_55](https://github.com/user-attachments/assets/b632bdbf-81be-4ece-a5b7-2751716feb26)
+![screenshot-localhost_8888-2025 04 02-15_33_00](https://github.com/user-attachments/assets/8e3cff6e-8812-4807-8c4a-7bae4015f95d)
+
 
 ### Project Overview
 
